@@ -34,7 +34,7 @@ section {
     gap: 10px;
   
     ul {
-      list-style-type: none; 
+      list-style: none; 
       padding: 0; 
       margin: 0; 
       display: flex; 
@@ -75,3 +75,5 @@ header, article, section, footer, main {
   box-sizing: border-box;
   list-style-type: none;
 }
+
+
